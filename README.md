@@ -16,3 +16,6 @@ it may assist farmers decide how much they should plant the next season. Additio
 attention. Using yield statistics, governments, non-governmental organizations, and other stakeholders may track their progress toward global objectives.
 Additionally, yield data is utilized to identify the advantages and disadvantages of various farming techniques and formulate recommendations. Yield data is 
 useful in making informed decisions about many aspects of farming, such as seed selection, pest management, irrigation scheduling and so on.
+
+The results of the project can be accessed in the below link
+https://sites.google.com/view/crop-yield-analysis-prediction/home
